@@ -4,5 +4,5 @@ Jupyter Notebook Prototype to allow the automatic auditory exploration of stella
 CONTENTS
 - Jupyter notebook: AutoFITS2Sound-Demo.ipynb
 - CSound file: AutoFITS2Sound.csd
-- Mask file: Init.png
+- Cabbage mask file: Init.png
 - Sample spectrum: Spectra.png
