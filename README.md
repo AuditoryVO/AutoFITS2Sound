@@ -27,8 +27,9 @@ AUTOFITS2SOUND INSTALLATION
 
 2- Download all the content of this repository into the same folder
 
-3- To reproduce the sonifications:
-   - Install all the dependencies included in the requirements.txt file
+3- Install all the dependencies included in the requirements.txt file
+
+4- To reproduce the sonifications:
    - Launch Cabbage, open AutoFITS2Sound.csd, and press play
    - Run the Jupyter notebook (AutoFITS2Sound-Demo.ipynb)
    - Add your path to the downloaded files before running all the cells
