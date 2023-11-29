@@ -7,6 +7,8 @@ CONTENTS
 - CSound/Cabbage file: AutoFITS2Sound.csd
 - Cabbage mask file: Init.png
 - Sample spectrum: Spectra.png
+- LICENSE
+- README
 - requirements.txt
 
 CABBAGE/CSOUND INSTALLATION
