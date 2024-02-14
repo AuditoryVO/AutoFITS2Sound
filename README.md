@@ -32,8 +32,10 @@ AUTOFITS2SOUND INSTALLATION
 3- Install all the dependencies included in the requirements.txt file
 
 4- To reproduce the sonifications:
-   - Launch Cabbage, open AutoFITS2Sound.csd, and press play => Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase
-     Also change manually “PluginID” to “PulginId” to avoid warnings.
+   - Launch Cabbage, open AutoFITS2Sound.csd, and press play
+     
+     Important note: Cabbage 2.9.0 requires CamelCase update via: File/Convert Identifiers to camelCase. Also change manually “PluginID” to “PulginId” to avoid warnings.
+     
    - Run the Jupyter notebook (AutoFITS2Sound-Demo.ipynb)
    - Add your path to the downloaded files before running all the cells
 
