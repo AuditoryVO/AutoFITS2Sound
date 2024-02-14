@@ -15,7 +15,7 @@ CABBAGE/CSOUND INSTALLATION
 
 1- Download and install CSound 6.15 from: https://github.com/csound/csound/releases/tag/6.15.0
 
-2- Download Cabbage from: https://cabbageaudio.com/download/ 
+2- Download Cabbage from (current version 2.9.0): https://cabbageaudio.com/download/ 
 
 3- Install only Cabbage from the downloaded Cabbage package.
 
