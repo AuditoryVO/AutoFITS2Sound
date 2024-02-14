@@ -19,7 +19,7 @@ CABBAGE/CSOUND INSTALLATION
 
 3- Install only Cabbage from the downloaded Cabbage package.
 
-   Warning: The latest version of Cabbage allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
+   Warning: Current Cabbage version 2.9.0 allows to optionally install the latest version of CSound. This default option should be unchecked not to overwrite CSound 6.15.
    Latests versions of CSound require additional plugins to work with the image CSound opcodes, so they should not be used.
 
 
@@ -40,4 +40,7 @@ AUTOFITS2SOUND INSTALLATION
    - Add your path to the downloaded files before running all the cells
 
 Enjoy the sonifications!
+
+Developer system info: Python 3.8.5 - Cabbage 2.5.0 - i7 macOS 10.15.7 - 32 GB - 1536 MB
+
 
